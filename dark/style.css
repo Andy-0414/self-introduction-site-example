@@ -171,9 +171,9 @@ body{
 
     font-size: 2em;
     font-weight: bold;
-    color: white;
+    color: #36afff;
 
-    background-color: #36AFFF;
+    border: 5px solid #36aff3;
 }
 
 /* footer */
