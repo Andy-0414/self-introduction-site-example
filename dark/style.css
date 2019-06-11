@@ -15,6 +15,13 @@
 
     /* 폰트 적용 */
     font-family: 'Roboto', sans-serif;
+
+    /* 다크버전이라 글자색깔을 바꾸 */
+    color: white;
+}
+/* 다크버전이라 배경색깔을 바꿈 */
+body{
+    background-color: #010d14;
 }
 
 /* 스크롤 바 크기 */
@@ -29,7 +36,7 @@
 /* 스크롤 바 스크롤 막대 */
 ::-webkit-scrollbar-thumb {
     border-radius: 8px;
-    background-color: #36AFFF;
+    background-color: #010d14;
 }
 
 /* 탑 바 (header) */
